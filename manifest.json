@@ -1,0 +1,21 @@
+{
+  "name": "العالمية كلين - خدمات التنظيف بالرياض",
+  "short_name": "العالمية كلين",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/1e40af/ffffff.png?text=Clean",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/1e40af/ffffff.png?text=Clean",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
